@@ -1,20 +1,20 @@
 #
-# Copyright (C) 2023 ScreamingSandals
+#版权所有 (C) 2023 尖叫起床
 #
-# This file is part of Screaming BedWars.
+#此文件是Screaming BedWars的一部分。
 #
-# Screaming BedWars is free software: you can redistribute it and/or modify it
-# under the terms of the GNU Lesser General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
+#Screaming BedWars是免费软件：您可以重新分发和/或修改它
+#根据GNU宽通用公共许可证的条款
+#自由软件基金会，许可证第3版，或
+#（由您选择）任何更高版本。
 #
-# Screaming BedWars is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU Lesser General Public License for more details.
+#Screaming BedWars分发，希望它能有用，
+#但没有任何保证；甚至没有默示的保证
+#适销性或特定用途的适用性。看到
+#有关更多详细信息，请访问GNU宽通用公共许可证。
 #
-# You should have received a copy of the GNU Lesser General Public License
-# along with Screaming BedWars. If not, see <https://www.gnu.org/licenses/>.
+#您应该已经收到了GNU宽通用公共许可证的副本
+#与Screaming BedWars一起。如果没有，请参阅<https://www.gnu.org/licenses/>。
 #
 
 lang_name: "Simplified Chinese"
